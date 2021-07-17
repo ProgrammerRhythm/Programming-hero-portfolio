@@ -70,3 +70,9 @@ body{
     text-decoration: none;
     color: white;
 }
+.text img {
+    height: 300px;
+    position: absolute;
+    right: 0px;
+    top: 845px;
+}
