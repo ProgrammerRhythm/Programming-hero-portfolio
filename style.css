@@ -84,7 +84,33 @@ body{
     float: left;
     padding-left: 2%;
     margin-left: 5%;
+    padding-top: 2%;
+}
+.half p{
+    color: #696969;
 }
 .expre h1{
     font-size: 35px;
+}
+
+.border{
+    border-radius: 8px;
+    box-shadow: 10px 10px 40px rgba(128, 128, 128, 0.473);
+    height: 75%;
+    /* background-color: white; */
+}
+.expre{
+    background-image: url(img/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#id2{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon,tomato);
+    border-image-slice: 1;
+}
+#id1{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
 }
