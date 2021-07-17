@@ -76,3 +76,15 @@ body{
     right: 0px;
     top: 845px;
 }
+.expre{
+    height: 80vh;
+}
+.half{
+    width: 40%;
+    float: left;
+    padding-left: 2%;
+    margin-left: 5%;
+}
+.expre h1{
+    font-size: 35px;
+}
